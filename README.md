@@ -1,8 +1,8 @@
 # Shayma-Alteneiji 
 
 
-<b> This portfolio highlights the skills and knowledge I’ve gained through university coursework, assignments, and projects.  </b>
-
+<h3> Welcome to my portfolio!  </h3>
+<h4> This portfolio highlights my journey as an electrical engineering student, showcasing the skills, knowledge, and experiences I have gained through university coursework, hands-on assignments, and projects.</h4>
 
 
 
