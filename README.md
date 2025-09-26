@@ -1,5 +1,5 @@
 <h3>Welcome to my portfolio!</h3>
-<p>I’m an Electrical Engineering student passionate about problem- solving, signal processing, and electromagntic theory. This page highlights my hands-on experience from university coursework, projects, and senior design work.</p>
+<p>I’m an Electrical Engineering student passionate about problem-solving, signal processing, and electromagntic theory. This page highlights my hands-on experience from university coursework, projects, and senior design work.</p>
 
 <h4>Selected Projects:</h4>
 <ul>
