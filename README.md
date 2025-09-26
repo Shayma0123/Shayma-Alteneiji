@@ -3,8 +3,8 @@
 
 <h4>Projects:</h4>
 <ul>
-  <li><strong>Camera & Radar Calibration:</strong> Intrinsic and extrinsic calibration for senior design project.</li>
-  <li><strong>Sensor Fusion:</strong> MATLAB implementation of camera-radar data fusion for object tracking using EKF.</li>
+  <li><strong>Camera & Radar Calibration:</strong> Intrinsic and extrinsic calibration (senior design project).</li>
+  <li><strong>Sensor Fusion:</strong> MATLAB implementation of camera-radar data fusion for object tracking using EKF (senior design project).</li>
   <li><strong>Kalman Filter Research:</strong> LS, RLS, and KF methods, including engineering decisions for synchronization, motion models, and pseudocode.</li>
   <li><strong>MATLAB Simulations:</strong> Analysis of Slotted and Pure ALOHA multiple access protocols.</li>
   <li><strong>Control Systems:</strong> System identification and performance analysis of compensated systems.</li>
