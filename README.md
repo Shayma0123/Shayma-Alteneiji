@@ -8,7 +8,7 @@
   <li><strong>Kalman Filter Research:</strong> LS, RLS, and KF methods, including engineering decisions for synchronization, motion models, and pseudocode.</li>
   <li><strong>MATLAB Simulations:</strong> Analysis of Slotted and Pure ALOHA multiple access protocols.</li>
   <li><strong>Control Systems:</strong> System identification and performance analysis of compensated systems.</li>
-  <li><strong>Undergraduate Research Course:</strong> Tasks implemented as part of a project on Passive Radar design.</li>
+  <li><strong>Undergraduate Research Course:</strong> Tasks implemented as part of a project on Passive Radar System.</li>
   <li><strong>Active Noise Cancellation:</strong> Work-in-progress real-time implementation for headphones.</li>
   <li>Various mini-assignments and hands-on experiments.</li>
 </ul>
