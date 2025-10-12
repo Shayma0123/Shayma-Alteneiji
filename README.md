@@ -22,7 +22,7 @@
 <p>Email: 100063072@ku.ac.ae </p>
 <p>Phone: +971 56 8959 611 </p>
 
-
+<div style="display: none;">
 <h3>Welcome to my portfolio!</h3>
 
 <p> I’m an Electrical Engineering student with a passion for circuits, signal processing, and applied electromagnetics. I lead projects from theory to implementation, breaking complex problems into modules, guiding teams, and diving deep into research to fully understand systems before building them. </p>
@@ -66,3 +66,4 @@
 <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile/">linkedin.com/in/yourprofile</a></p>
 
+</div>
