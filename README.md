@@ -14,7 +14,7 @@
 
   </li>
 </ul>
-    <img src="Senior_Design_Project/System_Block_Diagram.png" alt="System Block Diagram" width="500">
+    <img src="Senior Design Project/System Block Diagram .png" alt="System Block Diagram" width="500">
 
 
 
