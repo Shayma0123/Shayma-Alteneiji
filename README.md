@@ -14,7 +14,7 @@
 
   </li>
 </ul>
-![System Block Diagram](Shayma-Alteneiji/Senior Design Project/System Block Diagram .png)
+![System Block Diagram](System Block Diagram .png)
 
 
 <h4>📊 Coursework & Simulations</h4>
