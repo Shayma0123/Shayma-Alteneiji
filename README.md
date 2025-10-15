@@ -10,11 +10,14 @@
     The project is designed to track objects by fusing radar and camera data using an Extended Kalman filter. Asynchronous measurements from radar (position and velocity) and       camera (bounding box centroids) iterativly update the EKF target estimates, while a Global Nearest Neighbor algorithm ensures each measurement is assigned to the correct         track. The system has applications in Advanced Driver Assistance Systems (ADAS). 
 
     <em>Tools: MATLAB Simulation, Raspberry Pi, EKF, CA motion model, GNN data association method. </em>  
-    <a href="https://github.com/Shayma0123/Shayma-Alteneiji/tree/main/Senior%20Design%20Project">View Project</a>  
+    <a href="https://github.com/Shayma0123/Shayma-Alteneiji/tree/main/Senior%20Design%20Project">View Project</a> 
+
+    <img src="Senior_Design_Project/System_Block_Diagram.png" alt="System Block Diagram" width="500">
+
 
   </li>
 </ul>
-![System Block Diagram](System Block Diagram .png)
+
 
 
 <h4>📊 Coursework & Simulations</h4>
