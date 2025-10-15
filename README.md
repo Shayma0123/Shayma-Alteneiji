@@ -14,9 +14,12 @@
 
   </li>
 </ul>
-    <img src="Senior Design Project/System Block Diagram .png" alt="System Block Diagram" width="500">
 
 
+<p align="center">
+    <img src="Senior Design Project/System Block Diagram .png" alt="System Block Diagram" width="600">
+  <em>Figure 1: System Block Diagram</em>
+</p>
 
 <h4>📊 Coursework & Simulations</h4>
 <ul>
