@@ -14,7 +14,7 @@
 
   </li>
 </ul>
-  ![System Block Diagram](Senior Design Project/System Block Diagram .png)
+![System Block Diagram](Senior Design Project/System Block Diagram .png)
 
 <h4>📊 Coursework & Simulations</h4>
 <ul>
