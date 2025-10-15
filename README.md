@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    <img src="Senior Design Project/System Block Diagram .png" alt="System Block Diagram" width="600">
+  <img src="Senior Design Project/System Block Diagram .png" alt="System Block Diagram" width="600">
   <em>Figure 1: System Block Diagram</em>
 </p>
 
