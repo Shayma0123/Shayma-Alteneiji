@@ -12,11 +12,9 @@
     <em>Tools: MATLAB Simulation, Raspberry Pi, EKF, CA motion model, GNN data association method. </em>  
     <a href="https://github.com/Shayma0123/Shayma-Alteneiji/tree/main/Senior%20Design%20Project">View Project</a> 
 
-    <img src="Senior_Design_Project/System_Block_Diagram.png" alt="System Block Diagram" width="500">
-
-
   </li>
 </ul>
+    <img src="Senior_Design_Project/System_Block_Diagram.png" alt="System Block Diagram" width="500">
 
 
 
